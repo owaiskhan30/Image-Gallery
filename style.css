@@ -1,0 +1,12 @@
+.img-Gallery {
+    text-align: center;
+}
+.img-Gallery h1 {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img-box img {
+    width: 33%;
+    height: 200px;
+    object-fit: cover;
+}
